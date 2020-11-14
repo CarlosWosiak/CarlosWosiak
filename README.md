@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Carlos Wosiak, a Software Engineer at KolinaLabs and I've been working in tech since 2015. I'm from Brazil.
+I'm Carlos Wosiak, a Software Engineer from Brazil currently working at KolinaLabs.
 
 
-## ⚡ Technologies
+## ⚡ Stack
 
-These are some of the technologies and tools that I work with:
+These are some of the tech and tools that I work with:
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-007396?style=flat-square&logo=ruby&color=critical)
