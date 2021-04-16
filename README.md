@@ -2,7 +2,7 @@
 
 ### Hello everyone 🤔😁
 
-I'm Carlos Wosiak, a Software Engineer from Brazil currently working at KolinaLabs.
+I'm Carlos Wosiak, a Software Engineer from Brazil currently working at <a href="https://kolinalabs.com/" target="_blank">KolinaLabs</a>.
 
 
 ## 💻 Stack
