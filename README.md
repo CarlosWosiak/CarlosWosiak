@@ -2,7 +2,7 @@
 
 ### Hello everyone! 😁
 
-I'm Carlos Wosiak, a Software Engineer from Brazil currently working at <a href="https://www.itau.com/" target="_blank">Itaú</a>.
+I'm Carlos Wosiak, a Software Engineer from Brazil currently working at <a href="https://www.itau.com.br/" target="_blank">Itaú</a>.
 
 
 ## 💻 Stack
